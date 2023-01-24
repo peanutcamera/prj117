@@ -1,0 +1,18 @@
+body {
+    background-color: darkseagreen;
+}
+
+#score {
+    font-size: 24;
+    float: left;
+}
+
+#time {
+    font-size: 24;
+    float: right;
+}
+
+#sketchdrawn {
+    color: aquamarine;
+    font-size: 32;
+}
